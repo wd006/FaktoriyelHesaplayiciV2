@@ -1,2 +1,2 @@
 # FaktoriyelHesaplayiciV2
-FaktoriyelHesabi
+Faktöriyel Değeri Bulan ProgressBar içeren Basit ConsoleApp
