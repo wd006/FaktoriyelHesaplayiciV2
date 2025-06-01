@@ -1,2 +1,2 @@
 # FaktoriyelHesaplayiciV2
-Faktöriyel Değeri Bulan ProgressBar içeren Basit ConsoleApp
+Simple C# ConsoleApp with ProgressBar that Calculates Factorial
