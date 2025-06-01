@@ -1,0 +1,2 @@
+# FaktoriyelHesaplayiciV2
+FaktoriyelHesabi
